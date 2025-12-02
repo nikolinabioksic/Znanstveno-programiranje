@@ -1,9 +1,9 @@
 # Znanstveno-programiranje
-Statistička analiza Wine Quality (White Wine) dataseta i regresijsko modeliranje kvalitete vina u Pythonu koristeći scikit-learn.
+Statistička analiza Wine Quality (White Wine) dataseta i regresijsko modeliranje kvalitete vina u Pythonu koristeći sciki-learn.
 
 ## Struktura repozitorija
-- `Projekt.ipynb` — glavni Jupyter Notebook s analizom i modeliranjem
-- `winequality-white.csv` — dataset
+- `Projekt.ipynb`- glavni Jupyter Notebook s analizom i modeliranjem
+- `winequality-white.csv`- dataset
 ## Pokretanje projekta
 1. Kloniraj repozitorij:
    ```bash
